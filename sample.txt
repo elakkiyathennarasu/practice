@@ -1,1 +1,2 @@
 Hi THis is ELakkiya. LEarning GIT and GIT HUB. Now learned how to clone a repo.
+Now learned how to push.
