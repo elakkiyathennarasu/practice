@@ -6,3 +6,4 @@ print(a)
 b=int(input ("Enter another number:.."))
 print(b)
 
+
